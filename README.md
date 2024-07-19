@@ -1,4 +1,4 @@
-# Bangumi-anime-rating-prediction
+# Bangumi-anime-rating-prediction-model
 
 Dataset "anime_data.csv" is scraped from Bangumi anime site.
 
